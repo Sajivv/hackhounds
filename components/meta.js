@@ -5,9 +5,9 @@ const makeTitle = (title, name) =>
 
 const Meta = ({
   color = '#3fb34f',
-  name = 'Hack Pennsylvania',
-  title = 'Hack Pennsylvania – PA’s largest high school hackathon',
-  description = 'January 2019, 111 hackers came together for Pennsylvania’s largest high school hackathon ever.',
+  name = 'HackHounds',
+  title = 'HackHounds - Loyola\'s First Hackathon',
+  description = 'April 6-7th',
   image = 'https://2019.hackpenn.com/card.png',
   url = 'https://hackpenn.com'
 }) => (

@@ -69,15 +69,15 @@ export default (props) => {
         <Box sx={{ mx: 'auto' }} />
         <Link href="/finances" passHref>
           <A variant="styles.navitem" sx={{ ml: 'auto', mr: [3, 4] }}>
-            Finances
+            Sponsors
           </A>
         </Link>
         <A
-          href="https://2019.hackpenn.com"
+          href="https://forms.office.com/Pages/ResponsePage.aspx?id=jwquMN88_USvNCeL9jm4XYggxzhWLXRLnx2VdvYh4N5UMVNISTVNQ1U1T1NWV0gwWjEzMExYUUxTWC4u"
           variant="styles.navitem"
           sx={{ mr: [3, 4] }}
         >
-          2019 site
+          Sign Up
         </A>
         <ColorButton
           onClick={(e) => {
